@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Poppins", serif
+}
+.header{
+    background-color: #222831;
+    height: 3rem;  
+    color: #ffffff;
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.body{
+    background-color: #76ABAE;
+    height: 100vh;  
+    text-align: center;
+    color: #ffffff;
+}
+.container{
+    padding: 3rem auto;
+}
+.footer{
+    background-color: #222831;
+    height: 3rem;  
+    color: #ffffff;
+    text-align: center;
+}
